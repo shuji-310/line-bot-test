@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dB0YEboqk2AMJ4E4kVEYgUgz8l" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,5 +37,11 @@
       <updated>1591883224988</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591888021146">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="439" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.-477.1920.1080@0.0.1440.900" timestamp="1591888021146" />
   </component>
 </project>
